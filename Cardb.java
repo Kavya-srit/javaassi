@@ -76,7 +76,7 @@ public class Cardb {
 
         System.out.println("Total amount to be paid: " + totalAmount + "(" + carModel + " " + carCost +
                 " + " + rtoCharge + "(RTO) + " + insuranceCharge + "(Insurance) + " +
-                tcsCharge + "(TCS) + " + additionalAccessoriesCharge + "Additional Accessories - " + discount
+                tcsCharge + "(TCS) + " + additionalAccessoriesCharge + "(Additional Accessories) - " + discount
                 + "(Dealer discount))");
 
         scanner.close();
